@@ -1,4 +1,7 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["zsa/planck_ez", "piaxydls002"],
+        ["boardsource/5x12", "piaxydls002"]
+    ]
 }
